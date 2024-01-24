@@ -1,3 +1,0 @@
-## Dados
-
-Na primeira aba do cadastro de vendedores...

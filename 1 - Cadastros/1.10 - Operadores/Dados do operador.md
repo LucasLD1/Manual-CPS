@@ -1,3 +1,0 @@
-## Dados do operador
-
-Na primeira aba do cadastro de operadores...

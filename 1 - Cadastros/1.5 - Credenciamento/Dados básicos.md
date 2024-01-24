@@ -1,3 +1,0 @@
-## Dados básicos
-
-Nesta primeira aba do cadastro de credenciamento...

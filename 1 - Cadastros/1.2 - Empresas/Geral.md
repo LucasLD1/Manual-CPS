@@ -1,3 +1,0 @@
-## Geral
-
-Neste primeiro menu do cadastro de empresas...

@@ -1,0 +1,3 @@
+## Credenciado
+
+Neste menu ocorre o cadastro do credenciado...

@@ -1,0 +1,3 @@
+## Clínicas
+
+Neste menu é realizado o cadastro de clínicas médicas...

@@ -1,3 +1,0 @@
-## Geral
-
-Na primeira aba do cadastro de empresas...

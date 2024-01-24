@@ -5,7 +5,7 @@
 
 ### Inclusão:
 
-Para incluir um usuário, é necessário clicar no botão "Inserir" conforme imagem abaixo: 
+Para incluir um usuário, é necessário clicar no botão "Inserir" conforme imagem abaixo: <br>
 
 <div align="center">
   <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/inserir_usuario.png">

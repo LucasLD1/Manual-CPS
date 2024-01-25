@@ -14,8 +14,26 @@ Para incluir um usuário, é necessário clicar no botão "Inserir" conforme ima
 </div>
 <br>
 
-Após ter clicado, preencha os campos referentes à aba "1 - Geral" e prossiga para a aba <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usuários/2%20-%20Endereço%20e%20documentos.md">"2 - Endereço/Documento"</a>
+Após ter clicado, preencha os campos referentes à aba "1 - Geral" e prossiga para a aba <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usuários/2%20-%20Endereço%20e%20documentos.md">"2 - Endereço/Documento"</a> <br>
 
 ## Consulta:
 
-Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar o código atribuido para o mesmo e apertar a tecla enter ou clicando nos 3 pontinhos e realizando a busca pelo nome
+Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar o código atribuido para o mesmo e apertar a tecla enter conforme imagem abaixo: <br>
+
+<div align="center">
+  <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/consultar_usuario.png">
+</div>
+<br>
+
+ Outra forma de consultar o cadastro de um usuário é clicando nos 3 pontinhos e realizando a busca pelo nome, conforme segue abaixo: <br>
+
+<div align="center">
+  <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/consultar_usuario2.png">
+</div>
+<br>
+
+Para acessar o cadastro do usuário desejado, basta dar dois cliques no nome ou selecionar e depois clicar em confirmar. Tendo entrado no cadastro, basta navegar pelas abas para consultar as informações que necessita. <br>
+
+## Alteração
+
+Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo.

@@ -7,9 +7,9 @@
 </div>
 <br>
 
-<p>No campo "CPF" insira apenas os números e caso digitar um CPF inválido, o sistema irá acusar com uma mensagem na tela como na imagem abaixo.</p>
+<p align="justify">No campo "CPF" insira apenas os números e caso digitar um CPF inválido, o sistema irá acusar com uma mensagem na tela como na imagem abaixo.</p>
 
 <div align="center">
-  <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/endereco_usuario.png">
+  <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/cpf_invalido.png">
 </div>
 <br>

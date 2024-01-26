@@ -32,8 +32,8 @@ Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar
 </div>
 <br>
 
-Para acessar o cadastro do usuário desejado, basta dar dois cliques no nome ou selecionar e depois clicar em confirmar. Tendo entrado no cadastro, basta navegar pelas abas para consultar as informações que necessita. <br>
+<p align="justify">Para acessar o cadastro do usuário desejado, basta dar dois cliques no nome ou selecionar e depois clicar em confirmar. Tendo entrado no cadastro, basta navegar pelas abas para consultar as informações que necessita. </p> <br>
 
 ## Alteração
 
-Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo em <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/1%20-%20Geral.md#consulta">Consulta</a>.
+<p align="justify">Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo em <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/1%20-%20Geral.md#consulta">Consulta</a></p>.

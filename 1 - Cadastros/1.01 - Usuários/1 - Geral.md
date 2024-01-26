@@ -36,4 +36,5 @@ Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar
 
 ## Alteração
 
-<p align="justify">Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo em <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/1%20-%20Geral.md#consulta">Consulta</a></p>.
+<p align="justify">Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo em <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/1%20-%20Geral.md#consulta">Consulta.</a></p>
+<p align="justify">Após ter acessado o cadastro do usuário desejado, procure pelo campo que existe a necessidade de alteração (endereço, estado civil,...), altere e depois clique em confirmar. Em casos de mensagem de erro, consulte o suporte para orientação.</p>

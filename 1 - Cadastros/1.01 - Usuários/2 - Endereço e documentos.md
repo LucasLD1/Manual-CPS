@@ -14,4 +14,4 @@
 </div>
 <br>
 
-<p align="justify">Após o preenchimento desta aba siga para <a href="">"3 - Plano"</a>.</p>
+<p align="justify">Após o preenchimento desta aba siga para <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/3%20-%20Plano.md#plano">"3 - Plano"</a>.</p>

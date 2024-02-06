@@ -32,7 +32,7 @@ Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar
 </div>
 <br>
 
-<p align="justify">Para acessar o cadastro do usuário desejado, basta dar dois cliques no nome ou selecionar e depois clicar em confirmar. Tendo entrado no cadastro, basta navegar pelas abas para consultar as informações que necessita. </p> <br>
+<p align="justify">Para acessar o cadastro do usuário desejado, basta dar dois cliques no nome ou selecionar e depois clicar em confirmar. Tendo entrado no cadastro, basta navegar pelas abas para consultar as informações que necessita. </p>
 
 ## Alteração
 

@@ -14,4 +14,4 @@
 </div>
 <br>
 
-<p align="justify">Após o preenchimento desta aba siga a aba <a href="">"3 - Plano"</a>.</p>
+<p align="justify">Após o preenchimento desta aba siga para <a href="">"3 - Plano"</a>.</p>

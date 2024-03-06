@@ -38,3 +38,7 @@ Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar
 
 <p align="justify">Quando houver a necessidade de realizar alguma alteração no cadastro de um usuário, é necessário seguir os passos para entrar no cadastro do mesmo em <a href="https://github.com/LucasLD1/Manual-CPS/blob/main/1%20-%20Cadastros/1.01%20-%20Usu%C3%A1rios/1%20-%20Geral.md#consulta">Consulta.</a></p>
 <p align="justify">Após ter acessado o cadastro do usuário desejado, procure pelo campo que existe a necessidade de alteração (endereço, estado civil,...), altere e depois clique em confirmar. Em casos de mensagem de erro, consulte o suporte para orientação.</p>
+
+## Observação
+
+<p align="justify">Em casos onde foi realizado a transferência de usuários (Utilitários -> Transf. de usuários de empresa/plano), o sistema cira um novo cadastro para os usuários transferidos, cancelando o cadastro anterior. No novo cadastro desses usuários, no campo código anterior, fica o código do cadastro cancelado (cadastro antigo).</p>

@@ -41,4 +41,4 @@ Para realizar uma consulta ao cadastro de algum usuário, é necessário digitar
 
 ## Observação
 
-<p align="justify">Em casos onde foi realizado a transferência de usuários (Utilitários -> Transf. de usuários de empresa/plano), o sistema cira um novo cadastro para os usuários transferidos, cancelando o cadastro anterior. No novo cadastro desses usuários, no campo código anterior, fica o código do cadastro cancelado (cadastro antigo).</p>
+<p align="justify">Em casos onde foi realizado a transferência de usuários (Utilitários -> Transf. de usuários de empresa/plano), o sistema cria um novo cadastro para os usuários transferidos, cancelando o cadastro anterior. No novo cadastro desses usuários, no campo código anterior, fica o código do cadastro cancelado (cadastro antigo).</p>

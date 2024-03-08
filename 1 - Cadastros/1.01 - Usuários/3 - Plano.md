@@ -6,3 +6,14 @@
   <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/aba_plano.png">
 </div>
 <br>
+
+<p align="justify"> Quando algum beneficiário tiver o plano cancelado, é necessário informar uma data término e informar o motivo de cancelamento. Em casos que exista documento no contas à receber, o sistema não permitirá uma data término anterior ao vencimento do documento.</p>
+
+<div align="center">
+  <img src="https://github.com/LucasLD1/Manual-CPS/blob/main/Imagens/termino_usuario.png">
+</div>
+<br>
+
+## Observação
+
+<p align="justify"> Sempre confira antes de salvar uma informação se está tudo correto, pois após colocar uma data de inclusão não é possível alterá-la (sendo necessário a abertura de um chamado).</p>
